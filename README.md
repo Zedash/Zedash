@@ -1,11 +1,14 @@
-# What's Up Guys?👋
+# What's up, folks? 👋
 
-I'm Zohair Fernane and I'm a software developer/DevOps engineer. I'm from France, living in Paris and currently working at [@Campsider](https://campsider.com).
+I'm **Zohair Fernane** — a software developer & DevOps engineer based in Paris, France.
+I’m currently running my own creative studio, **KENTARO Interactive**, where I build bold digital experiences and weird side projects I love.
 
-- 🎲 D&D Dungeon Master? Check.
-- 🖼️ Innovative and sensitive designer? Double check.
-- 🌱 Self-taught and sarcastic full stack developer? Mega-check.
-- 👊🏿 Arguing with people like Jules Winnfield in Pulp Fiction? MOTHERFUCKING CHECK.
+Here’s a quick character sheet:
+
+- 🎲 **Dungeon Master?** Hell yes.
+- 🖼️ **Creative, intuitive, slightly obsessive designer?** Absolutely.
+- 🌱 **Sarcastic full-stack dev, self-taught with a vengeance?** You bet.
+- 👊🏿 **Debating like Jules Winnfield from Pulp Fiction?** Say what again. I dare you.
 
 ### 🌍Find me on
 - ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/thisiszohair) ![LinkedIn URL](https://img.shields.io/badge/LinkedIn--informational?style=social&logo=linkedin&logoColor=blue&url=https://www.linkedin.com/in/zohair-fernane-b51135106/)
